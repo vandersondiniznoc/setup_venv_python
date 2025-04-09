@@ -24,9 +24,10 @@ Este repositório contém scripts automatizados para criação de um ambiente vi
     source venv/bin/activate
 
 ### Para Windows
-
-Clique duas vezes no arquivo setup_venv.bat
-ou execute no terminal:
+✅ Como usar no Windows
+- Salve como setup_venv.bat
+- Dê dois cliques no arquivo para executar (ou rode via terminal)
+- Clique duas vezes no arquivo setup_venv.bat ou execute no terminal:
 
 cmd
 setup_venv.bat
