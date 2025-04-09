@@ -35,16 +35,17 @@ Para ativar o ambiente depois:
 venv\Scripts\activate
 
 📦 O que será instalado
-requests
-beautifulsoup4
-pandas
+- `requests`
+- `beautifulsoup4`
+- `pandas`
+
 
 🧪 Requisitos
-Python 3.6 ou superior instalado
-Pip configurado corretamente no sistema
-Permissão para criar arquivos/pastas no diretório atual
+- Python 3.6 ou superior instalado
+- Pip configurado corretamente no sistema
+- Permissão para criar arquivos/pastas no diretório atual
 
 🧑‍💻 Autor
-Vanderson Diniz do Nascimento
-Especialista em Linux, Redes, Cibersegurança e ISPs
-GitHub — LinkedIn
+- Vanderson Diniz do Nascimento
+- Especialista em Linux, Redes, Cibersegurança e ISPs
+- GitHub — LinkedIn
