@@ -10,15 +10,14 @@ Este repositório contém scripts automatizados para criação de um ambiente vi
 ## 🚀 Como usar
 
 ### Para Linux/macOS
-
+✅ Como usar
+- Salve o script como setup_venv.sh
 1. Dê permissão de execução:
    ```bash
    chmod +x setup_venv.sh
-   ./setup_venv.sh
 2. Execute o script:
      ```bash
    ./setup_venv.sh
-
 3. Para ativar o ambiente depois:
     ```bash
     source venv/bin/activate
